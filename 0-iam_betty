@@ -1,0 +1,4 @@
+cat > 0-iam_betty << 'EOF'
+#!/bin/bash
+su betty
+EOF
