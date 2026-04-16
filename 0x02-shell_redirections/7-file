@@ -1,5 +1,2 @@
 #!/bin/bash
-echo "Best School" > '\*\\'"Best School"\'\\*$?*****:)'
-EOF.cat > 7-file << 'EOF'
-#!/bin/bash
-echo "Best School" > '\*\\'"Best School"\'\\*$?*****:)'
+echo "Best School" > $'\'"Best School"\'*$?*****:)'
