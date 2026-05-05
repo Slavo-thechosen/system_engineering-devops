@@ -6,3 +6,4 @@
 - [x] 2. The path to success is to take massive, determined action
 - [x] 3. If the path be beautiful, let us not ask where it leads
 - [x] 4. Global variables
+- [x] 5. Local variables
