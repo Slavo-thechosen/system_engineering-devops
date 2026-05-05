@@ -9,3 +9,4 @@
 - [x] 5. Local variables
 - [x] 6. Local variable
 - [x] 7. Global variable
+- [x] 8. Every addition to true knowledge is an addition to human power
