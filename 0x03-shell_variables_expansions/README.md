@@ -8,3 +8,4 @@
 - [x] 4. Global variables
 - [x] 5. Local variables
 - [x] 6. Local variable
+- [x] 7. Global variable
