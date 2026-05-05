@@ -7,3 +7,4 @@
 - [x] 3. If the path be beautiful, let us not ask where it leads
 - [x] 4. Global variables
 - [x] 5. Local variables
+- [x] 6. Local variable
