@@ -6,3 +6,4 @@
 - [x] 2. Until Best School Loop
 - [x] 3. If 9, Say Hi!
 - [x] 4. 4 Bad Luck, 8 Is Your Chance
+- [x] 5. Superstitious Numbers
