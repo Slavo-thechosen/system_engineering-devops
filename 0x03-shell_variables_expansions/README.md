@@ -11,3 +11,4 @@
 - [x] 7. Global variable
 - [x] 8. Every addition to true knowledge is an addition to human power
 - [x] 9. Divide and rule
+- [x] 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
